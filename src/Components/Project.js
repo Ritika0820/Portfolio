@@ -20,14 +20,6 @@ const Projects = () => {
             This portfolio – designed with custom gradients, responsive layout,
             and subtle hover effects.
           </p>
-          <a
-            href="https://github.com/yourusername/portfolio"
-            target="_blank"
-            className="project-link"
-            rel="noopener noreferrer"
-          >
-            Source Code
-          </a>
         </div>
         <div className="project-card custom-tooltip">
           <h3>Some more projects</h3>
