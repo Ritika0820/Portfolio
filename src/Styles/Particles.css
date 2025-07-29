@@ -1,0 +1,15 @@
+/* .particles-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+} */
+
+.particles-container {
+    position: absolute;
+    top: 100px;
+    left: 40px;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
